@@ -20,19 +20,19 @@ namespace DAL
 
         public String Guardar(string datos)
         {
-            //try
-            //{
+            try
+            {
                 StreamWriter sw = new StreamWriter(fileName, true);
                 sw.WriteLine(datos);
                 sw.Close();
                 return "datos guardados";
-            //}
-            //catch (Exception)
-            //{
-
-            //    return "error al guardar";
-            //}
         }
+            catch (Exception)
+            {
+
+                return "error al guardar";
+            }
+}
 
     }
 }

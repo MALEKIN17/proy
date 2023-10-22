@@ -4,3 +4,9 @@ D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\Entity\obj\Debug\En
 D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
 D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\Entity\obj\Debug\Entity.dll
 D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\Entity\obj\Debug\Entity.pdb
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\Entity\bin\Debug\Entity.dll
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\Entity\bin\Debug\Entity.pdb
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\Entity\obj\Debug\Entity.dll
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\Entity\obj\Debug\Entity.pdb

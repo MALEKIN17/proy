@@ -8,17 +8,17 @@ using System.Threading.Tasks;
 
 namespace DAL
 {
-    public class RepositorioDeparatamento:Archivo
+    public class RepositorioEmpleado:Archivo
     {
-        public RepositorioDeparatamento(string fileName) : base(fileName)
+        public RepositorioEmpleado(string fileName) : base(fileName)
         {
         }
 
-        public List<Departamento> ConsultarTodos()
+        public List<Empleado> ConsultarTodos()
         {
             try
             {
-                List<Departamento> lista = new List<Departamento>();
+                List<Empleado> lista = new List<Empleado>();
 
                 StreamReader sr = new StreamReader(fileName);
                 while (!sr.EndOfStream)
@@ -35,12 +35,12 @@ namespace DAL
             }
         }
 
-        public Departamento BuscarId(string id)
+        public Empleado BuscarId(string id)
         {
             var lista= ConsultarTodos();
             foreach (var item in lista)
             {
-                if (item.CodigoDpto==id)
+                if (item.Empleadoid==id)
                 {
                     return item;
                 }
@@ -49,15 +49,20 @@ namespace DAL
             return null;
         }
 
-        private Departamento Mapear(string datos)
+        private Empleado Mapear(string datos)
         {
             var linea = datos.Split(';');
-            Departamento departamento = new Departamento
+            Empleado empleado = new Empleado
+
             {
-                CodigoDpto = linea[0],
-                NombreDpto = linea[1]
+
+                Empleadoid = linea[0],
+                Empleadonombre = linea[1],
+                Empleadosalario = linea[2],
+                Empleadoestado = linea[3],
+
             };
-            return departamento;
+            return empleado;
         }
     }
 }

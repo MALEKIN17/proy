@@ -9,3 +9,7 @@ D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\BLL\obj\Debug\BLL.c
 D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\BLL\obj\Debug\BLL.csproj.CopyComplete
 D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\BLL\obj\Debug\BLL.dll
 D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\BLL\obj\Debug\BLL.pdb
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\BLL\obj\Debug\BLL.dll
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\BLL\obj\Debug\BLL.pdb

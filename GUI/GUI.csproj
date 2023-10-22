@@ -46,43 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="FRmEmpleado.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FrmHijo.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmHijo.Designer.cs">
-      <DependentUpon>FrmHijo.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FRmMunicipio.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FRmMunicipio.Designer.cs">
-      <DependentUpon>FRmMunicipio.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FrmPadre.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmPadre.Designer.cs">
-      <DependentUpon>FrmPadre.cs</DependentUpon>
+    <Compile Include="FRmEmpleado.Designer.cs">
+      <DependentUpon>FRmEmpleado.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrmHijo.resx">
-      <DependentUpon>FrmHijo.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FRmMunicipio.resx">
-      <DependentUpon>FRmMunicipio.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrmPadre.resx">
-      <DependentUpon>FrmPadre.cs</DependentUpon>
+    <EmbeddedResource Include="FRmEmpleado.resx">
+      <DependentUpon>FRmEmpleado.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

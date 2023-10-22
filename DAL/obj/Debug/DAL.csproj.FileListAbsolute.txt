@@ -7,3 +7,7 @@ D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\DAL\obj\Debug\DAL.c
 D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\DAL\obj\Debug\DAL.csproj.CopyComplete
 D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\DAL\obj\Debug\DAL.dll
 D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\DAL\obj\Debug\DAL.pdb
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\DAL\obj\Debug\DAL.dll
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\DAL\obj\Debug\DAL.pdb

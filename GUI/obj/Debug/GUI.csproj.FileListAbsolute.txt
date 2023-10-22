@@ -39,3 +39,4 @@ C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Muni
 C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\GUI\obj\Debug\GUI.csproj.CopyComplete
 C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\GUI\obj\Debug\GUI.exe
 C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\GUI\obj\Debug\GUI.pdb
+C:\Users\santa\Desktop\Taller_Departamentos_Municipios\Taller_Departamentos_Municipios\GUI\obj\Debug\GUI.FRmEmpleado.resources
